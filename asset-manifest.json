@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/APPREACTCONTEXT/static/css/main.ecec0135.css",
+    "main.css": "/APPREACTCONTEXT/static/css/main.a648a7e7.css",
     "main.js": "/APPREACTCONTEXT/static/js/main.c20ff5b6.js",
     "index.html": "/APPREACTCONTEXT/index.html",
-    "main.ecec0135.css.map": "/APPREACTCONTEXT/static/css/main.ecec0135.css.map",
+    "main.a648a7e7.css.map": "/APPREACTCONTEXT/static/css/main.a648a7e7.css.map",
     "main.c20ff5b6.js.map": "/APPREACTCONTEXT/static/js/main.c20ff5b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecec0135.css",
+    "static/css/main.a648a7e7.css",
     "static/js/main.c20ff5b6.js"
   ]
 }
