@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/APPREACTCONTEXT/static/css/main.a648a7e7.css",
-    "main.js": "/APPREACTCONTEXT/static/js/main.c20ff5b6.js",
+    "main.css": "/APPREACTCONTEXT/static/css/main.fec13436.css",
+    "main.js": "/APPREACTCONTEXT/static/js/main.e9862b76.js",
     "index.html": "/APPREACTCONTEXT/index.html",
-    "main.a648a7e7.css.map": "/APPREACTCONTEXT/static/css/main.a648a7e7.css.map",
-    "main.c20ff5b6.js.map": "/APPREACTCONTEXT/static/js/main.c20ff5b6.js.map"
+    "main.fec13436.css.map": "/APPREACTCONTEXT/static/css/main.fec13436.css.map",
+    "main.e9862b76.js.map": "/APPREACTCONTEXT/static/js/main.e9862b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.a648a7e7.css",
-    "static/js/main.c20ff5b6.js"
+    "static/css/main.fec13436.css",
+    "static/js/main.e9862b76.js"
   ]
 }
