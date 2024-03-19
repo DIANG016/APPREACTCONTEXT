@@ -1,3 +1,6 @@
+import "./TaskForm.css"
+
+
 import { useContext, useState } from "react";
 import { TaskContext } from "../context/TaskContext";
 
@@ -20,8 +23,9 @@ const TaskForm = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <input
+    <div className="formPadre">
+    <form onSubmit={handleSubmit} className="formTask">
+      <input className="taskInput"
         placeholder="ESCRIBE TU TAREA"
         onChange={(e) => {
           setTilte(e.target.value);
@@ -30,13 +34,14 @@ const TaskForm = () => {
         value={title}
         autoFocus
       />
-      <textarea
+      <textarea className="text"
         placeholder="Descricion de nueva tarea"
         onChange={(e) => setdescription(e.target.value)}
         value={description}
       ></textarea>
-      <button>GUARDAR</button>
+      <button className="guardar">GUARDAR</button>
     </form>
+    </div>
   );
 };
 

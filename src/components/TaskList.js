@@ -1,4 +1,4 @@
-
+import "./TaskList.css"
 import { useContext } from "react";
 import { TaskContext } from "../context/TaskContext";
 
@@ -16,11 +16,13 @@ const TaskList = () => {
   }
 
   return (
-    <>
+    
+    <div className="card">
       {tasks.map((task) => (
         <TaskCard key={task.id} task={task}  />
       ))}
-    </>
+    </div>
+    
   );
 };
 
